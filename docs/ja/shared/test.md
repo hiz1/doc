@@ -1,5 +1,5 @@
-This file can be used to test transclusion. This whole file will be transcluded as is, with whitespace preservation.
+このファイルは、文書の挿入(transclusion)をテストするために使用できます。この文書全体が、空白の表示を維持したまま挿入されます。
 
-Note that any file references need are relative to the document where the file is inserted.
+挿入元の文書のファイル参照は、挿入先の文書からの相対的な参照であることに注意してください。
 
 ![shared image](../shared/images/logo.png)

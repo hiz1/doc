@@ -1,11 +1,10 @@
-## Creating a new game project
+## 新規ゲームプロジェクトの作成
 
-Before you begin working on your game, you should set up storage for the game assets and code. The easiest way is to create a project on the Defold Dashboard. Doing so creates a Git repository on our cloud servers where your work is stored.
+ゲームの作業を開始する前に、ゲームアセットとコード用のストレージを設定する必要があります。最も簡単な方法は、Defold Dashboardでプロジェクトを作成することです。そうすることで、あなたの作品が保存されているクラウドサーバにGitリポジトリが作成されます。
 
-1. Go to the [Defold Dashboard](//www.defold.com/dashboard/).
-2. Click New Project.
-3. Choose a name for the project and select *Start from a blank slate*.
-4. Click *Save* and you're done.
+1. [Defold Dashboard](//www.defold.com/dashboard/)にアクセスします。
+2. *New Project*をクリックします。
+3. プロジェクトの名前を入力して、*Start from a blank slate*を選択します。
+4. *Save*をクリックして完了です。
 
-![Add project](../shared/images/add_project.png)
-
+![プロジェクトの追加](../shared/images/add_project.png)
