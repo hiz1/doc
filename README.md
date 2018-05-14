@@ -9,7 +9,7 @@ Node.js and Gulp:
 ```sh
 $ brew install node
 $ npm install gulp-cli -g
-$ npm install gulp -g
+$ npm install
 ```
 
 (Don't bother about "npm WARN deprecated" things during npm install.)
